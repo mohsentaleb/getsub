@@ -1,6 +1,6 @@
 {
   "name": "getsubtitle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "app.js",
   "scripts": {
@@ -16,10 +16,10 @@
   "bin": {
     "getsubtitle": "./app.js"
   },
-    "keywords": [
-      "subtitle",
-      "yifysubtitles"
-    ],
+  "keywords": [
+    "subtitle",
+    "yifysubtitles"
+  ],
   "author": "Mohsen Taleb <mohsentaleb@gmail.com>",
   "license": "ISC",
   "dependencies": {

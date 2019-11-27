@@ -87,7 +87,7 @@ function promptForDownload(subsObject, imdbID) {
             const urlIndex = parseInt(result.url) - 1;
             const url = filteredSubs[urlIndex].url;
             
-            ytssubs.downloadSubs(url, `${__dirname}/`, () => {
+            ytssubs.downloadSubs(url, process.cwd(), () => {
                 console.log(colors.green('\r\nYour subtitle has been downloaded!'));
             });
         });
