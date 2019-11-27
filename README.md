@@ -1,4 +1,4 @@
-# Chande
+# GetSubtitle
 A minimal command line tool to download movie subtitles from [yifysubtitles.com](https://www.yifysubtitles.com/)
 
 # Installation
