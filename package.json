@@ -1,0 +1,31 @@
+{
+  "name": "getsub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohsentaleb/getsub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohsentaleb/getsub/issues"
+  },
+  "bin": {
+    "getsub": "./app.js"
+  },
+    "keywords": [
+      "subtitle",
+      "yifysubtitles"
+    ],
+  "author": "Mohsen Taleb <mohsentaleb@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "prompt": "^1.0.0",
+    "yifysubtitles": "^2.1.2",
+    "ytssubs": "^1.0.2"
+  }
+}
