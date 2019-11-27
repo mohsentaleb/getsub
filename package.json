@@ -1,5 +1,5 @@
 {
-  "name": "getsub",
+  "name": "getsubtitle",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mohsentaleb/getsub.git"
+    "url": "https://github.com/mohsentaleb/getsubtitle.git"
   },
   "bugs": {
-    "url": "https://github.com/mohsentaleb/getsub/issues"
+    "url": "https://github.com/mohsentaleb/getsubtitle/issues"
   },
   "bin": {
-    "getsub": "./app.js"
+    "getsubtitle": "./app.js"
   },
     "keywords": [
       "subtitle",
